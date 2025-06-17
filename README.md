@@ -22,7 +22,8 @@ This project simulates a fully connected multi-branch enterprise network for Tim
 - Admin-only remote access from secure head office machine
 
 ## 🖼️ Network Topology
-![Network Topology](./NetworkDiagram.png)
+![image](https://github.com/user-attachments/assets/9f86eedb-7fc7-4037-a987-2e3f3b3cb06e)
+
 
 ## 📂 Files Included
 - **Configurations/** – All router and switch commands
